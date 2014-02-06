@@ -3,9 +3,9 @@
 update html elements by mapping query selectors to attributes, text, and
 hypertext
 
-[![browser support](http://ci.testling.com/substack/hyperglue.png)](http://ci.testling.com/substack/hyperglue)
+[![browser support](http://ci.testling.com/cellvia/hyperglue.png)](http://ci.testling.com/cellvia/hyperglue)
 
-[![build status](https://secure.travis-ci.org/substack/hyperglue.png)](http://travis-ci.org/substack/hyperglue)
+[![build status](https://secure.travis-ci.org/cellvia/hyperglue.png)](http://travis-ci.org/cellvia/hyperglue)
 
 This module works in both node and the browser.
 
